@@ -28,4 +28,4 @@ Sample Output:
 |  1 | [main.cpp](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P10055/main.cpp)      |Solution|   
 |  2 | [input.txt](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P10055/input.txt)    | input file 1  | 
 |  3 | [input2.txt](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P10055/input2.txt)  |input file 2 |
-| 4  | uVa Problem: [Hashmat the Brave Warrior](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P10055/p10055.pdf)|
+| 4  | [Hashmat the Brave Warrior](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P10055/p10055.pdf)|uVa Problem|
