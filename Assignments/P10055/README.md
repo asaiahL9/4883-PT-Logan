@@ -1,4 +1,4 @@
-# uVa 10055 - Hashmat the Brave Warrior
+# uVa [10055](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=996) - Hashmat the Brave Warrior
 
 #### Hashmat is a brave warrior who with his group of young soldiers moves from one place to another to
 #### fight against his opponents. Before Fighting he just calculates one thing, the difference between his
@@ -10,7 +10,7 @@
 
 
 
-* uVa Problem: [Hashmat the Brave Warrior](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P10055/p10055.pdf)
+* **PDF**: [Hashmat the Brave Warrior](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P10055/p10055.pdf)
 
 |      |  | 
 | :---: | ----------- |
