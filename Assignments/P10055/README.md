@@ -8,16 +8,6 @@
 ### **For each line of input, print the difference of number of soldiers between Hashmat’s army and his opponent’s army. Each output should be in separate line.**
 <br>
 
-
-
-* uVa Problem: [Hashmat the Brave Warrior](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P10055/p10055.pdf)
-
-|   #   | File | Description |
-| :---: | ----------- | ----------|
-|  1 |  [main.cpp](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P10055/main.cpp)|Solution|   
-|  2 |[input.txt](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P10055/input.txt)     | input file 1  | 
-|  3 | [input2.txt](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P10055/input2.txt) |input file 2 
-|   |   |
 ```
 Sample Input: 
 10 12 
@@ -30,3 +20,11 @@ Sample Output:
 4
 100
 ```
+
+* uVa Problem: [Hashmat the Brave Warrior](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P10055/p10055.pdf)
+
+|   #   | File | Description |
+| :---: | ----------- | ----------|
+|  1 |  [main.cpp](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P10055/main.cpp)|Solution|   
+|  2 |[input.txt](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P10055/input.txt)     | input file 1  | 
+|  3 | [input2.txt](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P10055/input2.txt) |input file 2 
