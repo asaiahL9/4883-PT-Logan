@@ -1,4 +1,4 @@
-# [UVa 12578](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P12578/12578.pdf) - 10:6:2
+# [UVa 12578](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/EasyBreezy/P12578/12578.pdf) - 10:6:2
 
 The national flag of Bangladesh is bottle green in color and rectangular in size with the length (L) to
 width ratio of 10:6. It bears a red circle on the background of green. It maintains the length (L) to
@@ -21,11 +21,11 @@ Sample Output:
 12.57 47.43
 ```
 
-* uVa Problem: [10:6:2](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P12578/12578.pdf)
+* uVa Problem: [10:6:2](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/EasyBreezy/P12578/12578.pdf)
 
 |   #   | File | Description |
 | :---: | ----------- | ----------|
-|  1 | [main.cpp](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P12578/main.cpp)      |Solution|   
-|  2 | [in](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P12578/in.txt)    | input file 1  |  
-|  3 | [in2](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P12578/in2.txt)    | input file 2  |  
-|  4 | [10:6:2](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P12578/12578.pdf)|UVa Problem|
+|  1 | [main.cpp](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/EasyBreezy/P12578/main.cpp)      |Solution|   
+|  2 | [in](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/EasyBreezy/P12578/in.txt)    | input file 1  |  
+|  3 | [in2](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/EasyBreezy/P12578/in2.txt)    | input file 2  |  
+|  4 | [10:6:2](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/EasyBreezy/P12578/12578.pdf)|UVa Problem|

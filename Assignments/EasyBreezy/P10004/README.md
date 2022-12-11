@@ -1,4 +1,4 @@
-# [UVa 10004](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P10004/10004.pdf) - Bicoloring
+# [UVa 10004](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/EasyBreezy/P10004/10004.pdf) - Bicoloring
 
 In 1976 the “Four Color Map Theorem” was proven with the assistance of a computer. This theorem
 states that every map can be colored using only four colors, in such a way that no region is colored
@@ -44,11 +44,11 @@ BICOLORABLE.
 BICOLORABLE.
 ```
 
-* uVa Problem: [Bicoloring](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P10004/10004.pdf)
+* uVa Problem: [Bicoloring](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/EasyBreezy/P10004/10004.pdf)
 
 |   #   | File | Description |
 | :---: | ----------- | ----------|
-|  1 | [main.cpp](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P10004/main.cpp#L102)      |Solution|   
-|  2 | [in](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P10004/in.txt#L21)    | input file 1  | 
-|  3 | [in2](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P10004/in2.txt#L3914)    | input file 2  | 
-|  4 | [Bicoloring](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P10004/10004.pdf)|UVa Problem|
+|  1 | [main.cpp](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/EasyBreezy/P10004/main.cpp)      |Solution|   
+|  2 | [in](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/EasyBreezy/P10004/in.txt)    | input file 1  | 
+|  3 | [in2](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/EasyBreezy/P10004/in2.txt)    | input file 2  | 
+|  4 | [Bicoloring](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/EasyBreezy/P10004/10004.pdf)|UVa Problem|

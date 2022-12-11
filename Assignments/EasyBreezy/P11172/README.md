@@ -1,4 +1,4 @@
-# [UVa 11172](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P11172/11172.pdf) - Relational Operator
+# [UVa 11172](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/EasyBreezy/P11172/11172.pdf) - Relational Operator
 
 **Some operators checks about the relationship between two values and these operators are called relational operators. Given two numerical values your job is just to find out the relationship between them
 that is (i) First one is greater than the second (ii) First one is less than the second or (iii) First and
@@ -28,10 +28,10 @@ Sample Output:
 =
 ```
 
-* uVa Problem: [Relational Operator](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P11172/11172.pdf)
+* uVa Problem: [Relational Operator](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/EasyBreezy/P11172/11172.pdf)
 
 |   #   | File | Description |
 | :---: | ----------- | ----------|
-|  1 | [main.cpp](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P11172/main.cpp)      |Solution|   
-|  2 | [in](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P11172/in.txt#L4)    | input file 1  | 
-|  3 | [Relational Operator](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P11172/11172.pdf)|UVa Problem|
+|  1 | [main.cpp](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/EasyBreezy/P11172/main.cpp)      |Solution|   
+|  2 | [in](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/EasyBreezy/P11172/in.txt)    | input file 1  | 
+|  3 | [Relational Operator](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/EasyBreezy/P11172/11172.pdf)|UVa Problem|

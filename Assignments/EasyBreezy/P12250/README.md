@@ -1,4 +1,4 @@
-# [UVa 12250](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P12250/12250.pdf) - Language Detection
+# [UVa 12250](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/EasyBreezy/P12250/12250.pdf) - Language Detection
 
 English, Spanish, German, French, Italian and Russian are the 6 most prominent languages in the countries of European Union. Figure on the left shows
 intensity of English speaking people in different European countries. All of these languages have different
@@ -39,11 +39,11 @@ Case 5: ITALIAN
 Case 6: RUSSIAN
 ```
 
-* uVa Problem: [Language Detection](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P12250/12250.pdf)
+* uVa Problem: [Language Detection](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/EasyBreezy/P12250/12250.pdf)
 
 |   #   | File | Description |
 | :---: | ----------- | ----------|
-|  1 | [main.cpp](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P11764/main.cpp)      |Solution|   
-|  2 | [in](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P12250/in.txt)    | input file 1  |  
-|  3 | [in2](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P12250/in2.txt)    | input file 2  |  
-|  4 | [Language Detection](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P12250/12250.pdf)|UVa Problem|
+|  1 | [main.cpp](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/EasyBreezy/P12250/main.cpp#L34)      |Solution|   
+|  2 | [in](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/EasyBreezy/P12250/main.cpp)    | input file 1  |  
+|  3 | [in2](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/EasyBreezy/P12250/in2.txt)    | input file 2  |  
+|  4 | [Language Detection](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/EasyBreezy/P12250/12250.pdf)|UVa Problem|

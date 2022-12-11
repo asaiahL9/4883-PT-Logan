@@ -1,4 +1,4 @@
-# [UVa 10931](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P10931/10931.pdf) - Parity
+# [UVa 10931](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/EasyBreezy/P10931/10931.pdf) - Parity
 
 **We define the parity of an integer n as the sum of the bits in binary representation computed modulo
 two. As an example, the number 21 = 101012 has three 1s in its binary representation so it has parity
@@ -30,11 +30,11 @@ The parity of 1010 is 2 (mod 2).
 The parity of 10101 is 3 (mod 2).
 ```
 
-* uVa Problem: [Parity](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P10931/10931.pdf)
+* uVa Problem: [Parity](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/EasyBreezy/P10931/10931.pdf)
 
 |   #   | File | Description |
 | :---: | ----------- | ----------|
-|  1 | [main.cpp](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P10931/main.cpp)      |Solution|   
-|  2 | [in](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P10931/in.txt)    | input file 1  | 
-|  3 | [in2](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P10931/in2.txt)    | input file 2  | 
-|  4 | [Parity](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P10931/10931.pdf)|UVa Problem|
+|  1 | [main.cpp](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/EasyBreezy/P10931/main.cpp)      |Solution|   
+|  2 | [in](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/EasyBreezy/P10931/in.txt)    | input file 1  | 
+|  3 | [in2](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/EasyBreezy/P10931/in2.txt)    | input file 2  | 
+|  4 | [Parity](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/EasyBreezy/P10931/10931.pdf)|UVa Problem|

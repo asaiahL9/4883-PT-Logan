@@ -1,4 +1,4 @@
-# [UVa 11764](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P11764/11764.pdf) - Jumping Mario
+# [UVa 11764](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/EasyBreezy/P11764/11764.pdf) - Jumping Mario
 
 Mario is in the final castle. He now needs to jump
 over few walls and then enter the Koopa’s Chamber where he has to defeat the monster in order to
@@ -33,10 +33,10 @@ Case 2: 0 0
 Case 3: 4 0
 ```
 
-* uVa Problem: [Jumping Mario](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P11764/11764.pdf)
+* uVa Problem: [Jumping Mario](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/EasyBreezy/P11764/11764.pdf)
 
 |   #   | File | Description |
 | :---: | ----------- | ----------|
-|  1 | [main.cpp](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P11764/main.cpp)      |Solution|   
-|  2 | [in](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P11764/in.txt)    | input file 1  |  
-|  3 | [Jumping Mario](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P11764/11764.pdf)|UVa Problem|
+|  1 | [main.cpp](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/EasyBreezy/P11764/main.cpp)      |Solution|   
+|  2 | [in](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/EasyBreezy/P11764/in.txt)    | input file 1  |  
+|  3 | [Jumping Mario](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/EasyBreezy/P11764/11764.pdf)|UVa Problem|

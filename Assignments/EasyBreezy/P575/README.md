@@ -1,4 +1,4 @@
-# [UVa 575](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P575/575.pdf) - Skew Binary
+# [UVa 575](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/EasyBreezy/P575/575.pdf) - Skew Binary
 
 When a number is expressed in decimal, the k-th digit represents a multiple of 10k
 . (Digits are numbered
@@ -45,11 +45,11 @@ Sample Output:
 1041110737
 ```
 
-* uVa Problem: [Skew Binary](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P575/575.pdf)
+* uVa Problem: [Skew Binary](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/EasyBreezy/P575/575.pdf)
 
 |   #   | File | Description |
 | :---: | ----------- | ----------|
-|  1 | [main.cpp](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P575/main.cpp)      |Solution|   
-|  2 | [in](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P575/in.txt)    | input file 1  | 
-|  3 | [in2](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P575/in2.txt)    | input file 2  | 
-|  4 | [Skew Binary](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/P575/575.pdf)|UVa Problem|
+|  1 | [main.cpp](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/EasyBreezy/P575/main.cpp)      |Solution|   
+|  2 | [in](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/EasyBreezy/P575/in.txt)    | input file 1  | 
+|  3 | [in2](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/EasyBreezy/P575/in2.txt)    | input file 2  | 
+|  4 | [Skew Binary](https://github.com/asaiahL9/4883-PT-Logan/blob/main/Assignments/EasyBreezy/P575/575.pdf)|UVa Problem|
